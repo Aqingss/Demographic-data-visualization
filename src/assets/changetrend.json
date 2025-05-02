@@ -1,0 +1,513 @@
+[
+    {
+        "Year":1950,
+        "Population":"54,39,79,233",
+        "% Increase in Population":"0.00%",
+        "Birth Rate":46.133,
+        "Death Rate":23.366
+    },
+    {
+        "Year":1951,
+        "Population":"55,36,13,988",
+        "% Increase in Population":"1.77%",
+        "Birth Rate":44.921,
+        "Death Rate":23.106
+    },
+    {
+        "Year":1952,
+        "Population":"56,49,54,522",
+        "% Increase in Population":"2.05%",
+        "Birth Rate":43.71,
+        "Death Rate":22.845
+    },
+    {
+        "Year":1953,
+        "Population":"57,73,78,682",
+        "% Increase in Population":"2.20%",
+        "Birth Rate":42.498,
+        "Death Rate":22.585
+    },
+    {
+        "Year":1954,
+        "Population":"58,99,36,004",
+        "% Increase in Population":"2.17%",
+        "Birth Rate":41.286,
+        "Death Rate":22.325
+    },
+    {
+        "Year":1955,
+        "Population":"60,33,20,147",
+        "% Increase in Population":"2.27%",
+        "Birth Rate":40.075,
+        "Death Rate":22.064
+    },
+    {
+        "Year":1956,
+        "Population":"61,62,83,022",
+        "% Increase in Population":"2.15%",
+        "Birth Rate":38.863,
+        "Death Rate":21.804
+    },
+    {
+        "Year":1957,
+        "Population":"63,00,03,025",
+        "% Increase in Population":"2.23%",
+        "Birth Rate":37.652,
+        "Death Rate":21.543
+    },
+    {
+        "Year":1958,
+        "Population":"64,37,91,581",
+        "% Increase in Population":"2.19%",
+        "Birth Rate":36.44,
+        "Death Rate":21.283
+    },
+    {
+        "Year":1959,
+        "Population":"65,21,79,194",
+        "% Increase in Population":"1.30%",
+        "Birth Rate":37.034,
+        "Death Rate":21.157
+    },
+    {
+        "Year":1960,
+        "Population":"65,41,70,692",
+        "% Increase in Population":"0.31%",
+        "Birth Rate":37.629,
+        "Death Rate":21.031
+    },
+    {
+        "Year":1961,
+        "Population":"65,52,60,380",
+        "% Increase in Population":"0.17%",
+        "Birth Rate":38.223,
+        "Death Rate":20.905
+    },
+    {
+        "Year":1962,
+        "Population":"66,46,14,650",
+        "% Increase in Population":"1.43%",
+        "Birth Rate":38.818,
+        "Death Rate":20.779
+    },
+    {
+        "Year":1963,
+        "Population":"68,39,03,557",
+        "% Increase in Population":"2.90%",
+        "Birth Rate":39.412,
+        "Death Rate":20.653
+    },
+    {
+        "Year":1964,
+        "Population":"70,45,93,772",
+        "% Increase in Population":"3.03%",
+        "Birth Rate":39.427,
+        "Death Rate":19.082
+    },
+    {
+        "Year":1965,
+        "Population":"72,38,46,349",
+        "% Increase in Population":"2.73%",
+        "Birth Rate":39.442,
+        "Death Rate":17.511
+    },
+    {
+        "Year":1966,
+        "Population":"74,29,48,541",
+        "% Increase in Population":"2.64%",
+        "Birth Rate":39.458,
+        "Death Rate":15.941
+    },
+    {
+        "Year":1967,
+        "Population":"76,10,06,260",
+        "% Increase in Population":"2.43%",
+        "Birth Rate":39.473,
+        "Death Rate":14.37
+    },
+    {
+        "Year":1968,
+        "Population":"78,03,71,956",
+        "% Increase in Population":"2.54%",
+        "Birth Rate":39.488,
+        "Death Rate":12.799
+    },
+    {
+        "Year":1969,
+        "Population":"80,14,30,976",
+        "% Increase in Population":"2.70%",
+        "Birth Rate":37.976,
+        "Death Rate":12.075
+    },
+    {
+        "Year":1970,
+        "Population":"82,25,34,450",
+        "% Increase in Population":"2.63%",
+        "Birth Rate":36.463,
+        "Death Rate":11.351
+    },
+    {
+        "Year":1971,
+        "Population":"84,32,85,424",
+        "% Increase in Population":"2.52%",
+        "Birth Rate":34.951,
+        "Death Rate":10.626
+    },
+    {
+        "Year":1972,
+        "Population":"86,28,40,403",
+        "% Increase in Population":"2.32%",
+        "Birth Rate":33.438,
+        "Death Rate":9.902
+    },
+    {
+        "Year":1973,
+        "Population":"88,16,52,080",
+        "% Increase in Population":"2.18%",
+        "Birth Rate":31.926,
+        "Death Rate":9.178
+    },
+    {
+        "Year":1974,
+        "Population":"89,93,67,640",
+        "% Increase in Population":"2.01%",
+        "Birth Rate":30.039,
+        "Death Rate":8.772
+    },
+    {
+        "Year":1975,
+        "Population":"91,51,24,661",
+        "% Increase in Population":"1.75%",
+        "Birth Rate":28.152,
+        "Death Rate":8.366
+    },
+    {
+        "Year":1976,
+        "Population":"92,93,75,924",
+        "% Increase in Population":"1.56%",
+        "Birth Rate":26.265,
+        "Death Rate":7.959
+    },
+    {
+        "Year":1977,
+        "Population":"94,25,81,333",
+        "% Increase in Population":"1.42%",
+        "Birth Rate":24.378,
+        "Death Rate":7.553
+    },
+    {
+        "Year":1978,
+        "Population":"95,51,38,943",
+        "% Increase in Population":"1.33%",
+        "Birth Rate":22.491,
+        "Death Rate":7.147
+    },
+    {
+        "Year":1979,
+        "Population":"96,82,98,969",
+        "% Increase in Population":"1.38%",
+        "Birth Rate":22.231,
+        "Death Rate":7.039
+    },
+    {
+        "Year":1980,
+        "Population":"98,23,72,466",
+        "% Increase in Population":"1.45%",
+        "Birth Rate":21.972,
+        "Death Rate":6.93
+    },
+    {
+        "Year":1981,
+        "Population":"99,72,59,502",
+        "% Increase in Population":"1.52%",
+        "Birth Rate":21.712,
+        "Death Rate":6.822
+    },
+    {
+        "Year":1982,
+        "Population":"1,01,34,83,166",
+        "% Increase in Population":"1.63%",
+        "Birth Rate":21.453,
+        "Death Rate":6.713
+    },
+    {
+        "Year":1983,
+        "Population":"1,02,92,26,907",
+        "% Increase in Population":"1.55%",
+        "Birth Rate":21.193,
+        "Death Rate":6.605
+    },
+    {
+        "Year":1984,
+        "Population":"1,04,41,72,197",
+        "% Increase in Population":"1.45%",
+        "Birth Rate":21.908,
+        "Death Rate":6.625
+    },
+    {
+        "Year":1985,
+        "Population":"1,06,02,39,979",
+        "% Increase in Population":"1.54%",
+        "Birth Rate":22.623,
+        "Death Rate":6.645
+    },
+    {
+        "Year":1986,
+        "Population":"1,07,77,70,523",
+        "% Increase in Population":"1.65%",
+        "Birth Rate":23.339,
+        "Death Rate":6.664
+    },
+    {
+        "Year":1987,
+        "Population":"1,09,68,51,843",
+        "% Increase in Population":"1.77%",
+        "Birth Rate":24.054,
+        "Death Rate":6.684
+    },
+    {
+        "Year":1988,
+        "Population":"1,11,58,89,802",
+        "% Increase in Population":"1.74%",
+        "Birth Rate":24.769,
+        "Death Rate":6.704
+    },
+    {
+        "Year":1989,
+        "Population":"1,13,44,14,723",
+        "% Increase in Population":"1.66%",
+        "Birth Rate":23.299,
+        "Death Rate":6.702
+    },
+    {
+        "Year":1990,
+        "Population":"1,15,37,04,252",
+        "% Increase in Population":"1.70%",
+        "Birth Rate":21.829,
+        "Death Rate":6.7
+    },
+    {
+        "Year":1991,
+        "Population":"1,17,06,26,171",
+        "% Increase in Population":"1.47%",
+        "Birth Rate":20.359,
+        "Death Rate":6.699
+    },
+    {
+        "Year":1992,
+        "Population":"1,18,38,13,389",
+        "% Increase in Population":"1.13%",
+        "Birth Rate":18.889,
+        "Death Rate":6.697
+    },
+    {
+        "Year":1993,
+        "Population":"1,19,58,55,558",
+        "% Increase in Population":"1.02%",
+        "Birth Rate":17.419,
+        "Death Rate":6.695
+    },
+    {
+        "Year":1994,
+        "Population":"1,20,72,86,675",
+        "% Increase in Population":"0.96%",
+        "Birth Rate":16.85,
+        "Death Rate":6.69
+    },
+    {
+        "Year":1995,
+        "Population":"1,21,81,44,426",
+        "% Increase in Population":"0.90%",
+        "Birth Rate":16.28,
+        "Death Rate":6.685
+    },
+    {
+        "Year":1996,
+        "Population":"1,22,82,98,836",
+        "% Increase in Population":"0.83%",
+        "Birth Rate":15.711,
+        "Death Rate":6.68
+    },
+    {
+        "Year":1997,
+        "Population":"1,23,78,01,448",
+        "% Increase in Population":"0.77%",
+        "Birth Rate":15.141,
+        "Death Rate":6.675
+    },
+    {
+        "Year":1998,
+        "Population":"1,24,68,36,105",
+        "% Increase in Population":"0.73%",
+        "Birth Rate":14.572,
+        "Death Rate":6.67
+    },
+    {
+        "Year":1999,
+        "Population":"1,25,54,33,236",
+        "% Increase in Population":"0.69%",
+        "Birth Rate":14.274,
+        "Death Rate":6.665
+    },
+    {
+        "Year":2000,
+        "Population":"1,26,40,99,069",
+        "% Increase in Population":"0.69%",
+        "Birth Rate":13.976,
+        "Death Rate":6.66
+    },
+    {
+        "Year":2001,
+        "Population":"1,27,27,39,582",
+        "% Increase in Population":"0.68%",
+        "Birth Rate":13.679,
+        "Death Rate":6.655
+    },
+    {
+        "Year":2002,
+        "Population":"1,28,09,26,120",
+        "% Increase in Population":"0.64%",
+        "Birth Rate":13.381,
+        "Death Rate":6.65
+    },
+    {
+        "Year":2003,
+        "Population":"1,28,88,73,367",
+        "% Increase in Population":"0.62%",
+        "Birth Rate":13.083,
+        "Death Rate":6.645
+    },
+    {
+        "Year":2004,
+        "Population":"1,29,68,16,711",
+        "% Increase in Population":"0.62%",
+        "Birth Rate":13.028,
+        "Death Rate":6.686
+    },
+    {
+        "Year":2005,
+        "Population":"1,30,48,87,562",
+        "% Increase in Population":"0.62%",
+        "Birth Rate":12.973,
+        "Death Rate":6.727
+    },
+    {
+        "Year":2006,
+        "Population":"1,31,30,86,567",
+        "% Increase in Population":"0.63%",
+        "Birth Rate":12.917,
+        "Death Rate":6.767
+    },
+    {
+        "Year":2007,
+        "Population":"1,32,15,13,224",
+        "% Increase in Population":"0.64%",
+        "Birth Rate":12.862,
+        "Death Rate":6.808
+    },
+    {
+        "Year":2008,
+        "Population":"1,33,01,67,148",
+        "% Increase in Population":"0.65%",
+        "Birth Rate":12.807,
+        "Death Rate":6.849
+    },
+    {
+        "Year":2009,
+        "Population":"1,33,91,25,595",
+        "% Increase in Population":"0.67%",
+        "Birth Rate":12.787,
+        "Death Rate":6.88
+    },
+    {
+        "Year":2010,
+        "Population":"1,34,81,91,368",
+        "% Increase in Population":"0.68%",
+        "Birth Rate":12.767,
+        "Death Rate":6.911
+    },
+    {
+        "Year":2011,
+        "Population":"1,35,70,95,481",
+        "% Increase in Population":"0.66%",
+        "Birth Rate":12.748,
+        "Death Rate":6.941
+    },
+    {
+        "Year":2012,
+        "Population":"1,36,65,60,818",
+        "% Increase in Population":"0.70%",
+        "Birth Rate":12.728,
+        "Death Rate":6.972
+    },
+    {
+        "Year":2013,
+        "Population":"1,37,61,00,308",
+        "% Increase in Population":"0.70%",
+        "Birth Rate":12.708,
+        "Death Rate":7.003
+    },
+    {
+        "Year":2014,
+        "Population":"1,38,51,89,668",
+        "% Increase in Population":"0.66%",
+        "Birth Rate":12.552,
+        "Death Rate":7.027
+    },
+    {
+        "Year":2015,
+        "Population":"1,39,37,15,448",
+        "% Increase in Population":"0.62%",
+        "Birth Rate":12.397,
+        "Death Rate":7.05
+    },
+    {
+        "Year":2016,
+        "Population":"1,40,18,89,681",
+        "% Increase in Population":"0.59%",
+        "Birth Rate":12.241,
+        "Death Rate":7.074
+    },
+    {
+        "Year":2017,
+        "Population":"1,41,02,75,957",
+        "% Increase in Population":"0.60%",
+        "Birth Rate":12.086,
+        "Death Rate":7.097
+    },
+    {
+        "Year":2018,
+        "Population":"1,41,70,69,468",
+        "% Increase in Population":"0.48%",
+        "Birth Rate":11.93,
+        "Death Rate":7.121
+    },
+    {
+        "Year":2019,
+        "Population":"1,42,18,64,031",
+        "% Increase in Population":"0.34%",
+        "Birth Rate":11.673,
+        "Death Rate":7.261
+    },
+    {
+        "Year":2020,
+        "Population":"1,42,49,29,781",
+        "% Increase in Population":"0.22%",
+        "Birth Rate":11.416,
+        "Death Rate":7.402
+    },
+    {
+        "Year":2021,
+        "Population":"1,42,58,93,465",
+        "% Increase in Population":"0.07%",
+        "Birth Rate":11.159,
+        "Death Rate":7.542
+    },
+    {
+        "Year":2022,
+        "Population":"1,42,58,87,337",
+        "% Increase in Population":"0.00%",
+        "Birth Rate":10.902,
+        "Death Rate":7.683
+    }
+]

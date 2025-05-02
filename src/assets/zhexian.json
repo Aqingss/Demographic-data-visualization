@@ -1,0 +1,737 @@
+[
+    {
+        "Year": 1950,
+        "Population": 543979233,
+        "Life Expectancy": 43.45,
+        "Birth Rate": 46.133,
+        "Death Rate": 23.366,
+        "Infant Mortality Rate": 127.573,
+        "Fertility Rate": 6.488,
+        "Net Migration Rate": -0.129
+    },
+    {
+        "Year": 1951,
+        "Population": 553613988,
+        "Life Expectancy": 43.57,
+        "Birth Rate": 44.921,
+        "Death Rate": 23.106,
+        "Infant Mortality Rate": 128.008,
+        "Fertility Rate": 6.362,
+        "Net Migration Rate": -0.116
+    },
+    {
+        "Year": 1952,
+        "Population": 564954522,
+        "Life Expectancy": 43.7,
+        "Birth Rate": 43.71,
+        "Death Rate": 22.845,
+        "Infant Mortality Rate": 128.443,
+        "Fertility Rate": 6.236,
+        "Net Migration Rate": -0.102
+    },
+    {
+        "Year": 1953,
+        "Population": 577378682,
+        "Life Expectancy": 43.83,
+        "Birth Rate": 42.498,
+        "Death Rate": 22.585,
+        "Infant Mortality Rate": 128.878,
+        "Fertility Rate": 6.11,
+        "Net Migration Rate": -0.088
+    },
+    {
+        "Year": 1954,
+        "Population": 589936004,
+        "Life Expectancy": 43.96,
+        "Birth Rate": 41.286,
+        "Death Rate": 22.325,
+        "Infant Mortality Rate": 129.313,
+        "Fertility Rate": 5.984,
+        "Net Migration Rate": -0.074
+    },
+    {
+        "Year": 1955,
+        "Population": 603320147,
+        "Life Expectancy": 44.09,
+        "Birth Rate": 40.075,
+        "Death Rate": 22.064,
+        "Infant Mortality Rate": 129.748,
+        "Fertility Rate": 5.858,
+        "Net Migration Rate": -0.06
+    },
+    {
+        "Year": 1956,
+        "Population": 616283022,
+        "Life Expectancy": 44.21,
+        "Birth Rate": 38.863,
+        "Death Rate": 21.804,
+        "Infant Mortality Rate": 130.183,
+        "Fertility Rate": 5.732,
+        "Net Migration Rate": -0.047
+    },
+    {
+        "Year": 1957,
+        "Population": 630030325,
+        "Life Expectancy": 44.34,
+        "Birth Rate": 37.652,
+        "Death Rate": 21.543,
+        "Infant Mortality Rate": 130.618,
+        "Fertility Rate": 5.606,
+        "Net Migration Rate": -0.033
+    },
+    {
+        "Year": 1958,
+        "Population": 643791581,
+        "Life Expectancy": 44.47,
+        "Birth Rate": 36.44,
+        "Death Rate": 21.283,
+        "Infant Mortality Rate": 131.053,
+        "Fertility Rate": 5.48,
+        "Net Migration Rate": -0.019
+    },
+    {
+        "Year": 1959,
+        "Population": 652179194,
+        "Life Expectancy": 44.49,
+        "Birth Rate": 37.034,
+        "Death Rate": 21.157,
+        "Infant Mortality Rate": 131.85,
+        "Fertility Rate": 5.614,
+        "Net Migration Rate": -0.08
+    },
+    {
+        "Year": 1960,
+        "Population": 654170692,
+        "Life Expectancy": 44.5,
+        "Birth Rate": 37.629,
+        "Death Rate": 21.031,
+        "Infant Mortality Rate": 132.647,
+        "Fertility Rate": 5.748,
+        "Net Migration Rate": -0.141
+    },
+    {
+        "Year": 1961,
+        "Population": 655260380,
+        "Life Expectancy": 44.52,
+        "Birth Rate": 38.223,
+        "Death Rate": 20.905,
+        "Infant Mortality Rate": 133.444,
+        "Fertility Rate": 5.882,
+        "Net Migration Rate": -0.203
+    },
+    {
+        "Year": 1962,
+        "Population": 664614650,
+        "Life Expectancy": 44.53,
+        "Birth Rate": 38.818,
+        "Death Rate": 20.779,
+        "Infant Mortality Rate": 134.241,
+        "Fertility Rate": 6.016,
+        "Net Migration Rate": -0.264
+    },
+    {
+        "Year": 1963,
+        "Population": 683903557,
+        "Life Expectancy": 44.55,
+        "Birth Rate": 39.412,
+        "Death Rate": 20.653,
+        "Infant Mortality Rate": 135.038,
+        "Fertility Rate": 6.15,
+        "Net Migration Rate": -0.325
+    },
+    {
+        "Year": 1964,
+        "Population": 704593772,
+        "Life Expectancy": 46.73,
+        "Birth Rate": 39.427,
+        "Death Rate": 19.082,
+        "Infant Mortality Rate": 126.795,
+        "Fertility Rate": 6.18,
+        "Net Migration Rate": -0.268
+    },
+    {
+        "Year": 1965,
+        "Population": 723846349,
+        "Life Expectancy": 48.92,
+        "Birth Rate": 39.442,
+        "Death Rate": 17.511,
+        "Infant Mortality Rate": 118.552,
+        "Fertility Rate": 6.21,
+        "Net Migration Rate": -0.211
+    },
+    {
+        "Year": 1966,
+        "Population": 742948541,
+        "Life Expectancy": 51.1,
+        "Birth Rate": 39.458,
+        "Death Rate": 15.941,
+        "Infant Mortality Rate": 110.31,
+        "Fertility Rate": 6.24,
+        "Net Migration Rate": -0.155
+    },
+    {
+        "Year": 1967,
+        "Population": 761006260,
+        "Life Expectancy": 53.29,
+        "Birth Rate": 39.473,
+        "Death Rate": 14.37,
+        "Infant Mortality Rate": 102.067,
+        "Fertility Rate": 6.27,
+        "Net Migration Rate": -0.098
+    },
+    {
+        "Year": 1968,
+        "Population": 780371956,
+        "Life Expectancy": 55.47,
+        "Birth Rate": 39.488,
+        "Death Rate": 12.799,
+        "Infant Mortality Rate": 93.824,
+        "Fertility Rate": 6.3,
+        "Net Migration Rate": -0.041
+    },
+    {
+        "Year": 1969,
+        "Population": 801430976,
+        "Life Expectancy": 56.71,
+        "Birth Rate": 37.976,
+        "Death Rate": 12.075,
+        "Infant Mortality Rate": 89.449,
+        "Fertility Rate": 6.01,
+        "Net Migration Rate": -0.083
+    },
+    {
+        "Year": 1970,
+        "Population": 822534450,
+        "Life Expectancy": 57.95,
+        "Birth Rate": 36.463,
+        "Death Rate": 11.351,
+        "Infant Mortality Rate": 85.073,
+        "Fertility Rate": 5.72,
+        "Net Migration Rate": -0.125
+    },
+    {
+        "Year": 1971,
+        "Population": 843285424,
+        "Life Expectancy": 59.19,
+        "Birth Rate": 34.951,
+        "Death Rate": 10.626,
+        "Infant Mortality Rate": 80.698,
+        "Fertility Rate": 5.43,
+        "Net Migration Rate": -0.168
+    },
+    {
+        "Year": 1972,
+        "Population": 862840403,
+        "Life Expectancy": 60.43,
+        "Birth Rate": 33.438,
+        "Death Rate": 9.902,
+        "Infant Mortality Rate": 76.322,
+        "Fertility Rate": 5.14,
+        "Net Migration Rate": -0.21
+    },
+    {
+        "Year": 1973,
+        "Population": 881652080,
+        "Life Expectancy": 61.67,
+        "Birth Rate": 31.926,
+        "Death Rate": 9.178,
+        "Infant Mortality Rate": 71.947,
+        "Fertility Rate": 4.85,
+        "Net Migration Rate": -0.252
+    },
+    {
+        "Year": 1974,
+        "Population": 899367640,
+        "Life Expectancy": 62.44,
+        "Birth Rate": 30.039,
+        "Death Rate": 8.772,
+        "Infant Mortality Rate": 68.557,
+        "Fertility Rate": 4.482,
+        "Net Migration Rate": -0.204
+    },
+    {
+        "Year": 1975,
+        "Population": 915124661,
+        "Life Expectancy": 63.21,
+        "Birth Rate": 28.152,
+        "Death Rate": 8.366,
+        "Infant Mortality Rate": 65.167,
+        "Fertility Rate": 4.114,
+        "Net Migration Rate": -0.155
+    },
+    {
+        "Year": 1976,
+        "Population": 929375924,
+        "Life Expectancy": 63.97,
+        "Birth Rate": 26.265,
+        "Death Rate": 7.959,
+        "Infant Mortality Rate": 61.778,
+        "Fertility Rate": 3.746,
+        "Net Migration Rate": -0.107
+    },
+    {
+        "Year": 1977,
+        "Population": 942581333,
+        "Life Expectancy": 64.74,
+        "Birth Rate": 24.378,
+        "Death Rate": 7.553,
+        "Infant Mortality Rate": 58.388,
+        "Fertility Rate": 3.378,
+        "Net Migration Rate": -0.058
+    },
+    {
+        "Year": 1978,
+        "Population": 955138943,
+        "Life Expectancy": 65.51,
+        "Birth Rate": 22.491,
+        "Death Rate": 7.147,
+        "Infant Mortality Rate": 54.998,
+        "Fertility Rate": 3.01,
+        "Net Migration Rate": -0.01
+    },
+    {
+        "Year": 1979,
+        "Population": 968298969,
+        "Life Expectancy": 65.96,
+        "Birth Rate": 22.231,
+        "Death Rate": 7.039,
+        "Infant Mortality Rate": 52.927,
+        "Fertility Rate": 2.912,
+        "Net Migration Rate": -0.016
+    },
+    {
+        "Year": 1980,
+        "Population": 982372466,
+        "Life Expectancy": 66.41,
+        "Birth Rate": 21.972,
+        "Death Rate": 6.93,
+        "Infant Mortality Rate": 50.856,
+        "Fertility Rate": 2.814,
+        "Net Migration Rate": -0.022
+    },
+    {
+        "Year": 1981,
+        "Population": 997259502,
+        "Life Expectancy": 66.85,
+        "Birth Rate": 21.712,
+        "Death Rate": 6.822,
+        "Infant Mortality Rate": 48.786,
+        "Fertility Rate": 2.716,
+        "Net Migration Rate": -0.027
+    },
+    {
+        "Year": 1982,
+        "Population": 1013483166,
+        "Life Expectancy": 67.3,
+        "Birth Rate": 21.453,
+        "Death Rate": 6.713,
+        "Infant Mortality Rate": 46.715,
+        "Fertility Rate": 2.618,
+        "Net Migration Rate": -0.033
+    },
+    {
+        "Year": 1983,
+        "Population": 1029226907,
+        "Life Expectancy": 67.75,
+        "Birth Rate": 21.193,
+        "Death Rate": 6.605,
+        "Infant Mortality Rate": 44.644,
+        "Fertility Rate": 2.52,
+        "Net Migration Rate": -0.039
+    },
+    {
+        "Year": 1984,
+        "Population": 1044172197,
+        "Life Expectancy": 67.98,
+        "Birth Rate": 21.908,
+        "Death Rate": 6.625,
+        "Infant Mortality Rate": 44.168,
+        "Fertility Rate": 2.562,
+        "Net Migration Rate": -0.047
+    },
+    {
+        "Year": 1985,
+        "Population": 1060239979,
+        "Life Expectancy": 68.22,
+        "Birth Rate": 22.623,
+        "Death Rate": 6.645,
+        "Infant Mortality Rate": 43.693,
+        "Fertility Rate": 2.604,
+        "Net Migration Rate": -0.054
+    },
+    {
+        "Year": 1986,
+        "Population": 1077770523,
+        "Life Expectancy": 68.45,
+        "Birth Rate": 23.339,
+        "Death Rate": 6.664,
+        "Infant Mortality Rate": 43.217,
+        "Fertility Rate": 2.646,
+        "Net Migration Rate": -0.062
+    },
+    {
+        "Year": 1987,
+        "Population": 1096851843,
+        "Life Expectancy": 68.69,
+        "Birth Rate": 24.054,
+        "Death Rate": 6.684,
+        "Infant Mortality Rate": 42.742,
+        "Fertility Rate": 2.688,
+        "Net Migration Rate": -0.069
+    },
+    {
+        "Year": 1988,
+        "Population": 1115889802,
+        "Life Expectancy": 68.92,
+        "Birth Rate": 24.769,
+        "Death Rate": 6.704,
+        "Infant Mortality Rate": 42.266,
+        "Fertility Rate": 2.73,
+        "Net Migration Rate": -0.077
+    },
+    {
+        "Year": 1989,
+        "Population": 1134414723,
+        "Life Expectancy": 69.01,
+        "Birth Rate": 23.299,
+        "Death Rate": 6.702,
+        "Infant Mortality Rate": 42.068,
+        "Fertility Rate": 2.55,
+        "Net Migration Rate": -0.087
+    },
+    {
+        "Year": 1990,
+        "Population": 1153704252,
+        "Life Expectancy": 69.1,
+        "Birth Rate": 21.829,
+        "Death Rate": 6.7,
+        "Infant Mortality Rate": 41.869,
+        "Fertility Rate": 2.37,
+        "Net Migration Rate": -0.098
+    },
+    {
+        "Year": 1991,
+        "Population": 1170626171,
+        "Life Expectancy": 69.19,
+        "Birth Rate": 20.359,
+        "Death Rate": 6.699,
+        "Infant Mortality Rate": 41.671,
+        "Fertility Rate": 2.19,
+        "Net Migration Rate": -0.108
+    },
+    {
+        "Year": 1992,
+        "Population": 1183813389,
+        "Life Expectancy": 69.28,
+        "Birth Rate": 18.889,
+        "Death Rate": 6.697,
+		"Infant Mortality Rate": 41.472,
+        "Fertility Rate": 2.01,
+        "Net Migration Rate": -0.119
+    },
+    {
+        "Year": 1993,
+        "Population": 1195855558,
+        "Life Expectancy": 69.37,
+        "Birth Rate": 17.419,
+        "Death Rate": 6.695,
+        "Infant Mortality Rate": 41.274,
+        "Fertility Rate": 1.83,
+        "Net Migration Rate": -0.129
+    },
+    {
+        "Year": 1994,
+        "Population": 1207286675,
+        "Life Expectancy": 69.61,
+        "Birth Rate": 16.85,
+        "Death Rate": 6.69,
+        "Infant Mortality Rate": 40.031,
+        "Fertility Rate": 1.788,
+        "Net Migration Rate": -0.115
+    },
+    {
+        "Year": 1995,
+        "Population": 1218144426,
+        "Life Expectancy": 69.85,
+        "Birth Rate": 16.28,
+        "Death Rate": 6.685,
+        "Infant Mortality Rate": 38.787,
+        "Fertility Rate": 1.746,
+        "Net Migration Rate": -0.102
+    },
+    {
+        "Year": 1996,
+        "Population": 1228298836,
+        "Life Expectancy": 70.1,
+        "Birth Rate": 15.711,
+        "Death Rate": 6.68,
+        "Infant Mortality Rate": 37.544,
+        "Fertility Rate": 1.704,
+        "Net Migration Rate": -0.088
+    },
+    {
+        "Year": 1997,
+        "Population": 1237801448,
+        "Life Expectancy": 70.34,
+        "Birth Rate": 15.141,
+        "Death Rate": 6.675,
+        "Infant Mortality Rate": 36.3,
+        "Fertility Rate": 1.662,
+        "Net Migration Rate": -0.075
+    },
+    {
+        "Year": 1998,
+        "Population": 1246836105,
+        "Life Expectancy": 70.58,
+        "Birth Rate": 14.572,
+        "Death Rate": 6.67,
+        "Infant Mortality Rate": 35.057,
+        "Fertility Rate": 1.62,
+        "Net Migration Rate": -0.061
+    },
+    {
+        "Year": 1999,
+        "Population": 1255433236,
+        "Life Expectancy": 70.92,
+        "Birth Rate": 14.274,
+        "Death Rate": 6.665,
+        "Infant Mortality Rate": 33.461,
+        "Fertility Rate": 1.618,
+        "Net Migration Rate": -0.109
+    },
+    {
+        "Year": 2000,
+        "Population": 1264099069,
+        "Life Expectancy": 71.25,
+        "Birth Rate": 13.976,
+        "Death Rate": 6.66,
+        "Infant Mortality Rate": 31.865,
+        "Fertility Rate": 1.616,
+        "Net Migration Rate": -0.157
+    },
+    {
+        "Year": 2001,
+        "Population": 1272739582,
+        "Life Expectancy": 71.59,
+        "Birth Rate": 13.679,
+        "Death Rate": 6.655,
+        "Infant Mortality Rate": 30.269,
+        "Fertility Rate": 1.614,
+        "Net Migration Rate": -0.204
+    },
+    {
+        "Year": 2002,
+        "Population": 1280926120,
+        "Life Expectancy": 71.92,
+        "Birth Rate": 13.381,
+        "Death Rate": 6.65,
+        "Infant Mortality Rate": 28.673,
+        "Fertility Rate": 1.612,
+        "Net Migration Rate": -0.252
+    },
+    {
+        "Year": 2003,
+        "Population": 1288873367,
+        "Life Expectancy": 72.26,
+        "Birth Rate": 13.083,
+        "Death Rate": 6.645,
+        "Infant Mortality Rate": 27.077,
+        "Fertility Rate": 1.61,
+        "Net Migration Rate": -0.3
+    },
+    {
+        "Year": 2004,
+        "Population": 1296816711,
+        "Life Expectancy": 72.54,
+        "Birth Rate": 13.028,
+        "Death Rate": 6.686,
+        "Infant Mortality Rate": 25.283,
+        "Fertility Rate": 1.612,
+        "Net Migration Rate": -0.305
+    },
+    {
+        "Year": 2005,
+        "Population": 1304887562,
+        "Life Expectancy": 72.83,
+        "Birth Rate": 12.973,
+        "Death Rate": 6.727,
+        "Infant Mortality Rate": 23.488,
+        "Fertility Rate": 1.614,
+        "Net Migration Rate": -0.309
+    },
+    {
+        "Year": 2006,
+        "Population": 1313086567,
+        "Life Expectancy": 73.11,
+        "Birth Rate": 12.917,
+        "Death Rate": 6.767,
+        "Infant Mortality Rate": 21.694,
+        "Fertility Rate": 1.616,
+        "Net Migration Rate": -0.314
+    },
+    {
+        "Year": 2007,
+        "Population": 1321513224,
+        "Life Expectancy": 73.4,
+        "Birth Rate": 12.862,
+        "Death Rate": 6.808,
+        "Infant Mortality Rate": 19.899,
+        "Fertility Rate": 1.618,
+        "Net Migration Rate": -0.318
+    },
+    {
+        "Year": 2008,
+        "Population": 1330167148,
+        "Life Expectancy": 73.68,
+        "Birth Rate": 12.807,
+        "Death Rate": 6.849,
+        "Infant Mortality Rate": 18.105,
+        "Fertility Rate": 1.62,
+        "Net Migration Rate": -0.323
+    },
+    {
+        "Year": 2009,
+        "Population": 1339125595,
+        "Life Expectancy": 73.97,
+        "Birth Rate": 12.787,
+        "Death Rate": 6.88,
+        "Infant Mortality Rate": 16.939,
+        "Fertility Rate": 1.624,
+        "Net Migration Rate": -0.303
+    },
+    {
+        "Year": 2010,
+        "Population": 1348191368,
+        "Life Expectancy": 74.26,
+        "Birth Rate": 12.767,
+        "Death Rate": 6.911,
+        "Infant Mortality Rate": 15.773,
+        "Fertility Rate": 1.628,
+        "Net Migration Rate": -0.283
+    },
+    {
+        "Year": 2011,
+        "Population": 1357095481,
+        "Life Expectancy": 74.56,
+        "Birth Rate": 12.748,
+        "Death Rate": 6.941,
+        "Infant Mortality Rate": 14.608,
+        "Fertility Rate": 1.632,
+        "Net Migration Rate": -0.264
+    },
+    {
+        "Year": 2012,
+        "Population": 1366560818,
+        "Life Expectancy": 74.85,
+        "Birth Rate": 12.728,
+        "Death Rate": 6.972,
+        "Infant Mortality Rate": 13.442,
+        "Fertility Rate": 1.636,
+        "Net Migration Rate": -0.244
+    },
+    {
+        "Year": 2013,
+        "Population": 1376100308,
+        "Life Expectancy": 75.14,
+        "Birth Rate": 12.708,
+        "Death Rate": 7.003,
+        "Infant Mortality Rate": 12.276,
+        "Fertility Rate": 1.64,
+        "Net Migration Rate": -0.224
+    },
+    {
+        "Year": 2014,
+        "Population": 1385189668,
+        "Life Expectancy": 75.44,
+        "Birth Rate": 12.552,
+        "Death Rate": 7.027,
+        "Infant Mortality Rate": 11.8,
+        "Fertility Rate": 1.65,
+        "Net Migration Rate": -0.228
+    },
+    {
+        "Year": 2015,
+        "Population": 1393715448,
+        "Life Expectancy": 75.73,
+        "Birth Rate": 12.397,
+        "Death Rate": 7.05,
+        "Infant Mortality Rate": 11.323,
+        "Fertility Rate": 1.66,
+        "Net Migration Rate": -0.232
+    },
+    {
+        "Year": 2016,
+        "Population": 1401889681,
+        "Life Expectancy": 76.03,
+        "Birth Rate": 12.241,
+        "Death Rate": 7.074,
+        "Infant Mortality Rate": 10.847,
+        "Fertility Rate": 1.67,
+        "Net Migration Rate": -0.237
+    },
+    {
+        "Year": 2017,
+        "Population": 1410275957,
+        "Life Expectancy": 76.32,
+        "Birth Rate": 12.086,
+        "Death Rate": 7.097,
+        "Infant Mortality Rate": 10.37,
+        "Fertility Rate": 1.68,
+        "Net Migration Rate": -0.241
+    },
+    {
+        "Year": 2018,
+        "Population": 1417069468,
+        "Life Expectancy": 76.62,
+        "Birth Rate": 11.93,
+        "Death Rate": 7.121,
+        "Infant Mortality Rate": 9.894,
+        "Fertility Rate": 1.69,
+        "Net Migration Rate": -0.245
+    },
+    {
+        "Year": 2019,
+        "Population": 1421864031,
+        "Life Expectancy": 76.79,
+        "Birth Rate": 11.673,
+        "Death Rate": 7.261,
+        "Infant Mortality Rate": 9.595,
+        "Fertility Rate": 1.693,
+        "Net Migration Rate": -0.247
+    },
+    {
+        "Year": 2020,
+        "Population": 1424929878,
+        "Life Expectancy": 76.96,
+        "Birth Rate": 11.416,
+        "Death Rate": 7.402,
+        "Infant Mortality Rate": 9.295,
+        "Fertility Rate": 1.696,
+        "Net Migration Rate": -0.249
+    },
+    {
+        "Year": 2021,
+        "Population": 1425893465,
+        "Life Expectancy": 77.13,
+        "Birth Rate": 11.159,
+        "Death Rate": 7.542,
+        "Infant Mortality Rate": 8.996,
+        "Fertility Rate": 1.699,
+        "Net Migration Rate": -0.252
+    },
+    {
+        "Year": 2022,
+        "Population": 1425887337,
+        "Life Expectancy": 77.3,
+        "Birth Rate": 10.902,
+        "Death Rate": 7.683,
+        "Infant Mortality Rate": 8.696,
+        "Fertility Rate": 1.702,
+        "Net Migration Rate": -0.254
+    }
+]
+
+
+
+
+
